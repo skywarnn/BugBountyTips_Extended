@@ -2,7 +2,7 @@
 
 ### Description
 
-This repository contains extended wordlists, payloads, and more. The idea is to extend a basic pentesting toolbox of fancy ideas found in posts on social media tagged **#bugbountytips**. I start from essential lists created by leading content creators incl. [HackTricks] or [Seclists] and make them more weaponized. 
+This repository contains extended wordlists, payloads, and more. The idea is to extend a basic pentesting toolbox of fancy ideas found in posts on social media tagged **#bugbountytips**. I start from essential lists created by leading content creators incl. [HackTricks](https://book.hacktricks.xyz/welcome/readme) or [Seclists](https://github.com/danielmiessler/SecLists) and make them more weaponized. 
 
 I didn't create lists, my contribution is based on extending already existing inventories - kudos to their authors!
 
