@@ -1,0 +1,8 @@
+#DefaultOTP wordlist. Adjust to your OTP length 4/6/*:
+1111
+1234
+0000
+9999
+####
+****
+&&&&
